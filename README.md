@@ -4,6 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OCram85&theme=vue-dark&layout=compact)
 
+----
+
+![Activity Snake](https://raw.githubusercontent.com/OCram85/OCram85/output/github-contribution-grid-snake.svg)
 
 <!--
 **OCram85/OCram85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
