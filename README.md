@@ -1,6 +1,6 @@
-> Due to the [current discussion](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/) about the development of Github (Microsoft), I have decided to leave. I'm planing to migrate impotant projects to my on [Gitea instance](https://gitea.ocram85.com). Some others will either be deleted or no longer developed.
+> Due to the [current discussion](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/) about the development of Github (Microsoft), I have decided to leave. Threfore I'm planning to migrate impotant projects to my on [Gitea instance](https://gitea.ocram85.com). I continue to contribute to other projects, but no longer trust my own repositories to github.
 
-> :bulb: If you're interested in this topic, you can find addtional information at [GiveUpGitHub.org](https://GiveUpGitHub.org)
+> :bulb: If you're interested in this topic, you can find additional information at [GiveUpGitHub.org](https://GiveUpGitHub.org)
 
 # ⚡ Give Up GitHub
 
