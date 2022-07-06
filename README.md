@@ -1,24 +1,15 @@
-### Stats 🚀
+> Due to the [current discussion](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/) about the development of Github (Microsoft), I have decided to leave. I'm planing to migrate impotant projects to my on [Gitea instance](https://gitea.ocram85.com). Some others will either be deleted or no longer developed.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OCram85&show_icons=true&theme=vue-dark)
+> :bulb: If you're interested in this topic, you can find addtional information at [GiveUpGitHub.org](https://GiveUpGitHub.org)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OCram85&theme=vue-dark&layout=compact)
+# ⚡ Give Up GitHub
 
-----
+This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
 
-![Activity Snake](https://raw.githubusercontent.com/OCram85/OCram85/output/github-contribution-grid-snake.svg)
+You can now find this project at [https://gitea.ocram85.com](https://gitea.ocram85.com) instead.
 
-<!--
-**OCram85/OCram85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
 
-Here are some ideas to get you started:
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
